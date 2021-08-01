@@ -1,4 +1,4 @@
-Smart-Shop
+# Smart-Shop
 
 Looking for a quicker and easier way to shop?
 
