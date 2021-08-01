@@ -1,5 +1,7 @@
-3 Smart-Shop
+Smart-Shop
+
 Looking for a quicker and easier way to shop?
+
 Use my web-aplication smart-shop for quickly purchases phone
 
 Not only will you save time at the till by packing as you go, (there’s no need to unload at the till). You’ll also be able to track your spend with a running total as you shop, making it easier to stick to your budge
