@@ -1,4 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+3 Smart-Shop
+Looking for a quicker and easier way to shop?
+Use my web-aplication smart-shop for quickly purchases phone
+
+Not only will you save time at the till by packing as you go, (there’s no need to unload at the till). You’ll also be able to track your spend with a running total as you shop, making it easier to stick to your budge
+
+Demo: https://online-smart-shop.netlify.app/
+
+### Feature
+* make quick purchases
+* view whole catalog
+* search phone
+* view propreties all phone
+* sort catalog
+* view cart
+* delete purchases in cart
+
+
+### Technologies used:
+* React
+* React-Router
+* Ramda
+* Redux
+* React-redux
+* Redux-thunk
+* Redux-devtools
+* Superagent
+* History
+* Classnames
 
 ## Available Scripts
 
@@ -37,32 +65,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
