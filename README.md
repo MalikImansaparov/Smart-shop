@@ -1,5 +1,7 @@
 # Smart-Shop
 
+![Screenshot (132)](https://user-images.githubusercontent.com/50579392/144878311-b43a52c3-1edd-4476-9b18-8b829908ea8f.png)
+
 Looking for a quicker and easier way to shop?
 
 Use my web-aplication smart-shop for quickly purchases phone
